@@ -3,9 +3,8 @@ Digital Footprint of Belarus Railway Network using ShadowMap
 
 **Key Domains**
 
-isc.by
-ktc.by
-rw.by
-sovetgt.org
-aspred.rw (Internal)
-
+1. isc.by
+2. ktc.by
+3. rw.by
+4. sovetgt.org
+5. aspred.rw (Internal)
