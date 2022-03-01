@@ -9,3 +9,6 @@ Digital Footprint of Belarus Railway Network using ShadowMap
 4. sovetgt.org
 5. aspred.rw (Internal)
 6. brnvrw.by
+7. brest.rw
+8. brestrw.by
+9. 
